@@ -1,3 +1,9 @@
 {
-    "test": false
+  "FFlagSimIslandizerManager": "false",
+  "FFlagSimIslandizerManager": "false",
+  "DFIntS2PhysicsSenderRate": "15",
+  "DFFlagDebugVisualizationImprovements": "True",
+  "DFFlagDebugVisualizeAllPropertyChanges": "True",
+  "DFFlagDebugVisualizerTrackRotationPredictions": "True",
+  "DFFlagDebugEnableInterpolationVisualizer": "True"
 }
